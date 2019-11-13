@@ -28,6 +28,6 @@ export default class Navbar extends Component {
 const NavWrapper = styled.nav`
 	@media (min-width: 768px) {
 		display: flex;
-		align-item: center;
+		align-items: center;
 	}
 `;
